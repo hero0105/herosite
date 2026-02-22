@@ -615,6 +615,26 @@ footer {
 }
 
 @media (max-width: 768px) {
+    .main-nav {
+        flex-direction: column;
+        padding: 0.5rem 1rem;
+        text-align: center;
+    }
+
+    .logo {
+        font-size: 1.6rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .nav-links {
+        gap: 0.8rem;
+    }
+
+    .nav-links a {
+        font-size: 0.9rem;
+        padding: 4px 8px;
+    }
+
     .jp-title {
         font-size: 2.2rem;
     }
@@ -625,10 +645,6 @@ footer {
 
     .char-image-container {
         height: 350px;
-    }
-
-    .nav-links {
-        display: none;
     }
 
     .character-selector {
