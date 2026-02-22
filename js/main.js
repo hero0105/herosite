@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
         1: {
             name: "焔　流星", jpName: "ほむら　りゅうせい",
             heroName: "ブレイズ", weapon: "炎", gender: "男", birthday: "1月5日", height: "175cm",
-            school: "英紅高校", grade: "2-A", hobby: "トレーニング", specialty: "スポーツ全般",
+            school: "英紅高校", grade: "1-A", hobby: "トレーニング", specialty: "スポーツ全般",
             likes: "鍋、からあげ", dislikes: "ピーマン", weakness: "ジェットコースター",
             desc: "明るく優しく正義感が強すぎるヒーロー気質の少年。人の役に立つことでしか自分の価値を見出せず、電車のトラウマを抱えている。", stats: [15, 85, 60], color: "#f54842",
             image: "assets/ryusei.png", thumb: "assets/ryusei.png"
@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
         2: {
             name: "愛染　藍那", jpName: "あいぜん　あいな",
             heroName: "リーベ", weapon: "撃ち抜いた相手を惚れさせる", gender: "女", birthday: "9月5日", height: "150cm",
-            school: "英紅高校", grade: "2-A", hobby: "恋愛小説を読む", specialty: "細かい作業",
+            school: "英紅高校", grade: "1-A", hobby: "恋愛小説を読む", specialty: "細かい作業",
             likes: "イチゴ", dislikes: "キノコ類", weakness: "ホラー系",
             desc: "感受性が強く誰かの痛みに深く共鳴する優しい少女。「重い」と拒絶された過去から、流星の役に立つことで存在意義を探している。", stats: [35, 40, 30], color: "#ff80df",
             image: "assets/aina.png", thumb: "assets/aina.png"
